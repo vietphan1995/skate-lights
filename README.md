@@ -6,6 +6,8 @@
 
 [https://github.com/vietphan1995/skate-lights.git](https://github.com/vietphan1995/skate-lights.git)
 
+✉️ [Send to email: vietphan95@outlook.com](mailto:vietphan95@outlook.com?subject=register_idea:skate-lights_project&body=left_your_idea)
+
 Skate Lights is a system which includes lighting software and light device, especially in artistic stage.
 
 Skate Lights software can play light device in single or multiple grid map. It can plan lighting scenario for your performance also play directly.
@@ -17,6 +19,8 @@ Skate Lights device includes variety light, laser, smoke, firework, variety grid
 Skate Lights supports lighting in many patterns, scenarios, stage design, architectures, scale, …
 
 ![image.png](image%201.png)
+
+.
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
