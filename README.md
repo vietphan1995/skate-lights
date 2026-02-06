@@ -25,4 +25,4 @@ Skate Lights supports lighting in many patterns, scenarios, stage design, archit
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/skate-lights-1bb5e832d6ee80a39a0de51a2512ccfa
+https://maianhcorporation.notion.site/skate-lights-1bb5e832d6ee80a39a0de51a2512ccfa
